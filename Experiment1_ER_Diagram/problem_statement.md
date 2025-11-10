@@ -1,6 +1,8 @@
 # ER Diagram Workshop – Submission Template
-### NAME:ADITHYA V
-### REG NO:212223110001
+~~~
+NAME:ADITHYA V
+REG NO:212223110001
+~~~
 
 ## Objective
 To understand and apply ER modeling concepts by creating ER diagrams for real-world applications.
